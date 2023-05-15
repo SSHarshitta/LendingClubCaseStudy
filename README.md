@@ -1,5 +1,7 @@
 # Lending Club Case Study
-> Outline a brief description of your project.
+> The Objective of this project is to identify the variables which will help us to identidy the defaulters more accurately.
+
+>'Lending Club' company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface.
 
 
 ## Table of Contents
