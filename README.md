@@ -13,16 +13,15 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
+- If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
+- Here we are trying to identify the driving factor or the variables which are strong indicator of default.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
+- Based on the analysis we can see that the employee tenure and and their credit line are very much responsible to identify whether they are likely to default or not
+- dti column also gives us the employee's background and can be a strong indicator which can define whether the employee can de defaulter or not
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
@@ -30,8 +29,17 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
+- Python 3.x version
+- Python libraries 
+    - import pandas - Version: 1.5.2
+    - import numpy - Version: 1.23.5
+    - import datetime - 
+    - import matplotlib.pyplot - 
+    - import seaborn - 
+    - import plotly.express - 
+    - import plotly.graph_objects - 
+    - import plotly.io as pio - 
+    - import kaleido - 
 - library - version 3.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
